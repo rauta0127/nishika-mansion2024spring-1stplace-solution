@@ -1,0 +1,10 @@
+{
+    "住宅": "home", 
+    "店舗": "store", 
+    "事務所": "office", 
+    "その他": "other", 
+    "駐車場": "parking", 
+    "倉庫": "warehouse", 
+    "作業場": "workshop", 
+    "工場": "factory"
+}
